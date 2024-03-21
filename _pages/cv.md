@@ -11,9 +11,9 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Systems Engineering, AI for Engineering, Universidad Aut\'onoma de Nuevo Le\'on, 2023
-* M.Sc. in Systems Engineering, Universidad Aut\'onoma de Nuevo Le\'on, 2019
-* B.S. in Engineering for Software technology, Universidad Aut\'onoma de Nuevo Le\'on, 2017
+* Ph.D. in Systems Engineering, AI for Engineering, Universidad Autonoma de Nuevo Leon, 2023
+* M.Sc. in Systems Engineering, Universidad Autonoma de Nuevo Leon, 2019
+* B.S. in Engineering for Software Technology, Universidad Autonoma de Nuevo Leon, 2017
 
 Work experience
 ======
